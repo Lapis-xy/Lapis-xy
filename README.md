@@ -1,5 +1,10 @@
 ## Hi, i'm Lapis-xy 👋
 
+🎯 **Software developer** | 🤖 **3rd Year IT Student**
+- 😄 he/him 16 y/o
+- 🔭 I'm a n
+- 🌱 I'm currently learning Assembly, Malware Analysis & Reverse Engineering AND Web Development
+
 <!--
 **Lapis-xy/Lapis-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
