@@ -1,4 +1,4 @@
-## Hi, i'm Lapis-xy 👋
+## Hi,👋 i'm Lapis-xy 
 
 🎯 **Software developer** | 🤖 **3rd Year IT Student**
 - 😄 he/him 16 y/o
