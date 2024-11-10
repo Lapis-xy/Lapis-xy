@@ -6,6 +6,13 @@
 - 🌱 I'm currently learning Assembly, Malware Analysis & Reverse Engineering AND Web Development
 
 ## 📊 **GitHub Stats**
+
+
+![Lapis-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lapis-xy&show_icons=true&theme=dark&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=compact&theme=dark)
+
+
+
 <!--
 **Lapis-xy/Lapis-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
