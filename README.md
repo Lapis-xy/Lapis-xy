@@ -5,8 +5,7 @@
 - 🔭 I'm currently learning CSS and HTML, focusing on web development and creating stylish, functional websites.
 - 🌱 I'm currently learning Assembly, Malware Analysis & Reverse Engineering AND Web Development
 
-  ##GitHub Stats
-
+## 📊 **GitHub Stats**
 <!--
 **Lapis-xy/Lapis-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
