@@ -1,4 +1,4 @@
-![favicon](https://github.com/user-attachments/assets/4cd2d4da-0e3b-42cc-93ee-910625fe611e)## Hi,👋 i'm Lapis-xy 
+## Hi,👋 i'm Lapis-xy 
 
 🎯 **Software developer** | 🤖 **3rd Year IT Student**
 - 😄 he/him 16 y/o
@@ -20,7 +20,11 @@
 
 ## Portfolio
 
-!![Uploading fa<?xml version="1.0" encoding="UTF-8"?>
+
+![favicon](https://github.com/user-attachments/assets/4cd2d4da-0e3b-42cc-93ee-910625fe611e)
+
+
+[Uploading fa<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
   <defs>
     <style>
@@ -30,7 +34,7 @@
     </style>
   </defs>
   <rect class="bg" x="0" y="0" width="128" height="128" rx="64" ry="64"/>
-  <rect class="stroke" x="4" y="4" width="120" height="120" rx="60" ry="60"/>
+  <rect class="stroke" x="4" y="4" width="50" height="50" rx="60" ry="60"/>
   <text class="letter" x="64" y="68" text-anchor="middle" dominant-baseline="middle">L</text>
 </svg>
 vicon.svg…]()
