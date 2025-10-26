@@ -19,13 +19,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=compact&theme=dark)
 
 ## Portfolio
-
-
-<p align="left">
+<div style="display: flex; heigth: 40; allign: center;">
+  <p >
   <img src="https://github.com/user-attachments/assets/4cd2d4da-0e3b-42cc-93ee-910625fe611e" alt="favicon" width="40" height="40">
   <a href ="Lapis-xy.github.io" color= "blue">Lapis-xy</a>
-</p>
-
+  </p>
+</div>
 
 
 
