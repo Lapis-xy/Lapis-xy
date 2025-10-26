@@ -15,7 +15,7 @@
 ## 📊 **GitHub Stats**
 
 ![Lapis-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lapis-xy&show_icons=true&theme=dark&hide_title=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=compact&theme=default&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=compact&theme=dark&hide_border=false)
 
 
 ## 🌐 **Connection With me**
