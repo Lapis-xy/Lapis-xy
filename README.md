@@ -10,13 +10,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Discord API](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-
+---
 
 ## 📊 **GitHub Stats**
 
 ![Lapis-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lapis-xy&show_icons=true&theme=dark&hide_title=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=compact&theme=dark&hide_border=false)
-
+---
 
 ## 🌐 **Connection With me**
 
