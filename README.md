@@ -14,9 +14,8 @@
 
 ## 📊 **GitHub Stats**
 
-
-![Lapis-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lapis-xy&show_icons=true&theme=dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=default&theme=default)
+![Lapis-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lapis-xy&show_icons=true&theme=default&hide_title=true&hide_border=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=default&theme=default&hide_border=false)
 
 
 ## 🌐 **Connection With me**
