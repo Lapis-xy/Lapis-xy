@@ -21,9 +21,11 @@
 ## Portfolio
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4cd2d4da-0e3b-42cc-93ee-910625fe611e" alt="favicon" width="80" height="80">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4cd2d4da-0e3b-42cc-93ee-910625fe611e" alt="favicon" width="40" height="40">
+  <a href ="Lapis-xy.github.io" color= "blue">Lapis-xy</a>
 </p>
+
 
 
 
