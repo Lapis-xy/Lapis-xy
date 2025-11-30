@@ -1,11 +1,11 @@
- Hi,👋 i'm Lapis-xy 
+## Hi,👋 i'm Lapis-xy 
 
 🎯 **Software developer** | 🤖 **3rd Year IT Student**
 - 😄 he/him 16 y/o
 - 🔭 I'm currently learning CSS and HTML, focusing on web development and creating stylish, functional websites.
 - 🌱 I'm currently learning Assembly, Malware Analysis & Reverse Engineering AND Web Development
 
-🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Discord API](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
