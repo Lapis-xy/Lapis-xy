@@ -1,45 +1,71 @@
-## Hi,👋 i'm Lapis-xy 
+<h1 align="center">Hi there, I'm Lapis 👋</h1>
+<p align="center">
+  <strong>Software Developer | Malware Analyst & Reverse Engineering Enthusiast | 3rd Year IT Student</strong>
+</p>
 
-🎯 **Software developer** | 🤖 **3rd Year IT Student**
-- 😄 he/him 16 y/o
-- 🔭 I'm currently learning CSS and HTML, focusing on web development and creating stylish, functional websites.
-- 🌱 I'm currently learning Assembly, Malware Analysis & Reverse Engineering AND Web Development
+<p align="center">
+  <img src="https://shields.io" alt="Age">
+  <img src="https://shields.io" alt="Pronouns">
+  <img src="https://shields.io" alt="Repo Size">
+</p>
 
-## 🛠️ **Tech Stack**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Discord API](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+### ⏳ "Zafkiel. Control the code, master the system."
 
+Driven by pure curiosity and a relentless desire to understand technology at its lowest level. Like Kurumi Tokisaki’s mastery over time, I navigate through complex architectures, dissecting systems from secure backends down to the bare metal. Whether it's reverse engineering malware or crafting elegant software, I turn technical chaos into functional logic.
 
-## 📊 **GitHub Stats**
+---
 
-![Lapis-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lapis-xy&show_icons=true&theme=dark&hide_title=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=compact&theme=dark&hide_border=false)
+### 🛡️ What I'm Up To
+- 🔭 **Focusing on:** Advanced Web Development, building modern, secure, and highly functional web ecosystems.
+- 🌱 **Deep Diving Into:** Assembly (x86), Malware Analysis, and Reverse Engineering to break and secure systems.
+- ⚡ **Core Philosophy:** Breaking down monolithic technical challenges into bulletproof, elegant code.
 
+---
 
+### 🛠️ Tech Stack & Arsenal
 
+#### 💻 Core Programming
+<p align="left">
+  <img src="https://shields.io" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io" alt="C#">
+  <img src="https://shields.io" alt="Java">
+</p>
 
-## 🌐 **Connection With me**
+#### 🌐 Web Development
+<p align="left">
+  <img src="https://shields.io" alt="HTML5">
+  <img src="https://shields.io" alt="CSS3">
+  <img src="https://shields.io" alt="Node.js">
+</p>
 
- <p align="left"> 
-  <img src="https://github.com/user-attachments/assets/4cd2d4da-0e3b-42cc-93ee-910625fe611e" alt="favicon" width="40" height="40" align="middle"> &nbsp; 
-  <a href="https://Lapis-xy.github.io" >Lapis-xy</a> 
- </p>
+#### ⚙️ Low-Level & Infrastructure
+<p align="left">
+  <img src="https://shields.io" alt="Assembly">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="Discord API">
+</p>
 
+---
 
+### 📊 GitHub Analytics
 
-<!--
-**Lapis-xy/Lapis-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://vercel.app" alt="Lapis-xy's GitHub stats" width="48%">
+  <img src="https://vercel.app" alt="Top Languages" width="48%">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Secure Handshake (Connect)
 
+<p align="left">
+  <a href="https://Lapis-xy.github.io"><img src="https://shields.io" alt="Website"></a>
+  <a href="https://discord.com"><img src="https://shields.io" alt="Discord"></a>
+  <a href="https://github.com/Lapis-xy"><img src="https://shields.io" alt="GitHub"></a>
+</p>
+
+<p align="center">🛡️ <i>"To secure the future, you must understand the logic of the past."</i></p>
