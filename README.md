@@ -1,56 +1,44 @@
----
-</div>
+## Hi,👋 i'm Lapis-xy 
 
-### 🎯 "Zafkiel. Control the code, master the system."
-Driven by pure curiosity and a relentless desire to understand technology at its lowest level. Like Kurumi Tokisaki’s mastery over time, I navigate through complex architectures, dissecting systems from secure backends down to the bare metal. Whether it's reverse engineering malware or crafting elegant software, I turn technical chaos into functional logic.
+🎯 **Software developer** | 🤖 **3rd Year IT Student**
+- 😄 he/him 16 y/o
+- 🔭 I'm currently learning CSS and HTML, focusing on web development and creating stylish, functional websites.
+- 🌱 I'm currently learning Assembly, Malware Analysis & Reverse Engineering AND Web Development
 
-- 🔭 **Current Focus:** Advanced Web Development, building modern, secure, and highly functional web ecosystems.
-- 🌱 **Deep Diving:** Assembly (x86), Malware Analysis, and Reverse Engineering to break and secure systems.
-- ⚡ **Core Philosophy:** Breaking down monolithic technical challenges into bulletproof, elegant code.
+## 🛠️ **Tech Stack**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Discord API](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-### 🛠️ Tech Stack & Arsenal
 
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>Core Languages</strong></td>
-    <td align="center" width="33%"><strong>Web Development</strong></td>
-    <td align="center" width="33%"><strong>Low-Level & Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="top">
-      <img src="https://shields.io" alt="C++"><br>
-      <img src="https://shields.io" alt="Python"><br>
-      <img src="https://shields.io" alt="C#"><br>
-      <img src="https://shields.io" alt="Java">
-    </td>
-    <td align="top">
-      <img src="https://shields.io" alt="HTML5"><br>
-      <img src="https://shields.io" alt="CSS3"><br>
-      <img src="https://shields.io" alt="JavaScript">
-    </td>
-    <td align="top">
-      <img src="https://shields.io" alt="Assembly"><br>
-      <img src="https://shields.io" alt="Git"><br>
-      <img src="https://shields.io" alt="Discord API">
-    </td>
-  </tr>
-</table>
+## 📊 **GitHub Stats**
 
----
+![Lapis-xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lapis-xy&show_icons=true&theme=dark&hide_title=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis-xy&layout=compact&theme=dark&hide_border=false)
 
-### 📊 GitHub Analytics
 
-```html
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
-```
 
----
 
-<div align="center">
-  <p>🛡️ <i>"To secure the future, you must understand the logic of the past."</i></p>
-</div>
+## 🌐 **Connection With me**
+
+ <p align="left"> 
+  <img src="https://github.com/user-attachments/assets/4cd2d4da-0e3b-42cc-93ee-910625fe611e" alt="favicon" width="40" height="40" align="middle"> &nbsp; 
+  <a href="https://Lapis-xy.github.io" >Lapis-xy</a> 
+ </p>
+
+
+
+<!--
+**Lapis-xy/Lapis-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
